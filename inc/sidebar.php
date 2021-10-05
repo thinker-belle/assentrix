@@ -2,9 +2,9 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
   <!-- Brand Logo -->
   <a href="index.php" class="brand-link elevation-2">
-    <img src="dist/img/rrlogo.png" alt="RRGroup Logo" class="brand-image img-rounded elevation-3"
+    <img src="dist/img/logo.jpg" alt="Brand Logo" class="brand-image img-rounded elevation-3"
          style="opacity: 1">
-    <span class="brand-text font-weight-light">RRFC</span>
+    <span class="brand-text font-weight-light">KFCI</span>
   </a>
   <!-- Sidebar -->
   <div class="sidebar">
