@@ -13,7 +13,7 @@
         </div>
         <section class="content">
           <?php if(isset($_GET['dashboard'])): ?>
-            <?php include 'pages/dashboard.html'; ?>
+            <?php include 'pages/dashboard.php'; ?>
           <?php elseif(isset($_GET['assetlookup'])): ?>
             <?php include 'pages/assetlookup.php'; ?>
           <?php elseif(isset($_GET['general'])): ?>
@@ -21,7 +21,7 @@
           <?php elseif(isset($_GET['users'])): ?>
             <?php elseif(isset($_GET['authorization'])): ?>
           <?php else:?>
-            <?php include 'pages/dashboard.html'; ?>
+            <?php include 'pages/dashboard.php'; ?>
           <?php endif;
           ?>
         </section>
