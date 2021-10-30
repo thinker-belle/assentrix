@@ -6,8 +6,8 @@
         echo "Dashboard";
       } elseif (isset($_GET['assetlookup'])) {
         echo "Asset Lookup";
-      } elseif (isset($_GET['general'])) {
-        echo "General Settings";
+      } elseif (isset($_GET['admin'])) {
+        echo "Administration";
       } elseif (isset($_GET['users'])) {
         echo "User Management";
       } elseif (isset($_GET['authorization'])) {

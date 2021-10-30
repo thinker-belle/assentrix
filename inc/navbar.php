@@ -5,7 +5,7 @@
   <ul class="navbar-nav">
     <li class="nav-item">
       <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars mr-2"></i>
-        Assentrix Leave Management System
+        Assentrix Leave Request Management System
       </a>
     </li>
   </ul>

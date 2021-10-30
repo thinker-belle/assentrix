@@ -3,7 +3,7 @@
     <div class="col-md-6">
       <div class="card card-danger card-outline">
         <div class="card-header">
-          <h5 class="card-tools float-left mb-0">Device Type</h5>
+          <h5 class="card-tools float-left mb-0">Employee Type</h5>
           <div class="card-tools float-right p-0">
             <button type="button" class="btn btn-tool" data-card-widget="collapse"><i class="fas fa-minus"></i></button>
           </div>

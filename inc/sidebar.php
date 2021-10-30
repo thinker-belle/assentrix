@@ -41,22 +41,27 @@
 
           <ul class="nav nav-treeview">
             <li class="nav-item">
-              <a href="index.php?administration&general" class="nav-link <?php echo isset($_GET['general'])? "active" : "" ; ?> ">
+              <a href="index.php?administration&employee-type" class="nav-link <?php echo isset($_GET['admin'])? "active" : "" ; ?> ">
                 <i class="nav-icon fas fa-cogs ml-2"></i>
-                <p>General Settings</p>
+                <p>Employee Type</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="index.php?administration&peronnel-type" class="nav-link <?php echo isset($_GET['admin'])? "active" : "" ; ?> ">
+                <i class="nav-icon fas fa-cogs ml-2"></i>
+                <p>Personnel Type</p>
               </a>
             </li>
             <li class="nav-item">
               <a href="index.php?administration&users" class="nav-link <?php echo isset($_GET['users'])? "active" : "" ; ?> ">
               <i class="nav-icon fas fa-cogs ml-2"></i>
-                <p>User Management</p>
+                <p>Leave Type</p>
               </a>
-
             </li>
             <li class="nav-item">
-              <a href="index.php?administration&authorization" class="nav-link <?php echo isset($_GET['authorization'])? "active" : "" ; ?> ">
-                <i class="nav-icon fas fa-cogs ml-2"></i>
-                <p>User Authorization</p>
+              <a href="index.php?administration&users" class="nav-link <?php echo isset($_GET['users'])? "active" : "" ; ?> ">
+              <i class="nav-icon fas fa-cogs ml-2"></i>
+                <p>Approval Stage</p>
               </a>
             </li>
           </ul>
@@ -71,12 +76,6 @@
             </p>
           </a>
           <ul class="nav nav-treeview">
-            <li class="nav-item">
-              <a href="#" class="nav-link">
-                <i class="nav-icon fas fa-desktop ml-2"></i>
-                <p>Asset Inventory</p>
-              </a>
-            </li>
             <li class="nav-item">
               <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-users ml-2"></i>
@@ -98,13 +97,19 @@
             <li class="nav-item">
               <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-clone ml-2"></i>
-                <p>Gatepass</p>
+                <p>Leave Request</p>
               </a>
             </li>
             <li class="nav-item">
               <a href="#" class="nav-link">
                 <i class="nav-icon fas fa-clone ml-2"></i>
-                <p>Accountability</p>
+                <p>Leave Credits</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">
+                <i class="nav-icon fas fa-clone ml-2"></i>
+                <p>Leave Posting</p>
               </a>
             </li>
           </ul>

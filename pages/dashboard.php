@@ -4,8 +4,8 @@
     <div class="col-lg-12 col-12">
       <div class="small-box bg-info">
         <div class="inner text-center">
-          <h3>372</h3>
-          <p>TOTAL FISH TUB</p>
+          <h3>15</h3>
+          <p>ACTIVE EMPLOYEES</p>
         </div>
         <div class="icon">
           <i class="ion ion-bag"></i>
@@ -13,12 +13,12 @@
         <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
       </div>
     </div>
-    <!-- FISHPORT TUB STORAGE -->
-    <div class="col-lg-3 col-4">
+
+    <div class="col-lg-4 col-4">
       <div class="small-box bg-purple">
         <div class="inner">
-          <h3>120</h3>
-          <p>FISHPORT TUB STORAGE</p>
+          <h3>2</h3>
+          <p>PENDING REQUESTS</p>
         </div>
         <div class="icon">
           <i class="ion ion-person-add"></i>
@@ -26,25 +26,25 @@
         <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
       </div>
     </div>
-    <!-- FISHPORT LOADING AREA -->
-    <div class="col-lg-3 col-4">
+
+    <div class="col-lg-4 col-4">
+      <div class="small-box bg-success">
+        <div class="inner">
+          <h3>8</h3>
+          <p>REQUEST FOR REVIEW</p>
+        </div>
+        <div class="icon">
+          <i class="ion ion-pie-graph"></i>
+        </div>
+        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+      </div>
+    </div>
+
+    <div class="col-lg-4 col-4">
       <div class="small-box bg-danger">
         <div class="inner">
-          <h3>8</h3>
-          <p>FISHPORT LOADING AREA</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-pie-graph"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-    <!-- PKPI TUB STORAGE AREA -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-success">
-        <div class="inner">
-          <h3>106</h3>
-          <p>PKPI TUB STORAGE AREA</p>
+          <h3>2</h3>
+          <p>CANCELLED</p>
         </div>
         <div class="icon">
           <i class="ion ion-stats-bars"></i>
@@ -52,73 +52,8 @@
         <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
       </div>
     </div>
-    <!-- PKPI LOADING AREA -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-maroon">
-        <div class="inner">
-          <h3>8</h3>
-          <p>PKPI LOADING AREA</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-bag"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-    <!-- RRSSI MANUFACTURING -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-teal">
-        <div class="inner">
-          <h3>17</h3>
-          <p>RRSSI MANUFACTURING</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-person-add"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-    <!-- OCEAN CANNING -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-gray">
-        <div class="inner">
-          <h3>15</h3>
-          <p>OCEAN CANNING</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-pie-graph"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-    <!-- CENTURY CANNING -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-lightblue">
-        <div class="inner">
-          <h3>18</h3>
-          <p>CENTURY CANNING</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-stats-bars"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-    <!-- LOCATION A -->
-    <div class="col-lg-3 col-4">
-      <div class="small-box bg-success">
-        <div class="inner">
-          <h3>28</h3>
-          <p>LOCATION A</p>
-        </div>
-        <div class="icon">
-          <i class="ion ion-stats-bars"></i>
-        </div>
-        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
-      </div>
-    </div>
-  </div>
-
+    
+<!-- 
   <div class="row">
     <div class="col-md-6">
       <div class="card card-navy">
@@ -423,5 +358,5 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </div>

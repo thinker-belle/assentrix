@@ -21,7 +21,7 @@
           <?php elseif(isset($_GET['users'])): ?>
             <?php elseif(isset($_GET['authorization'])): ?>
           <?php else:?>
-            <?php include 'pages/dashboard.php'; ?>
+            <?php include 'pages/landing.php'; ?>
           <?php endif;
           ?>
         </section>
